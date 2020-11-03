@@ -1,0 +1,23 @@
+{
+  "name": "readMe-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcshanken/readMe-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcshanken/readMe-Generator/issues"
+  },
+  "homepage": "https://github.com/bcshanken/readMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
