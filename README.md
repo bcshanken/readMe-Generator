@@ -12,7 +12,7 @@ To install the application fork the repo and install on your local machine. Then
 
 In your terminal navigate to the proper workplace. Run node on the index.js file and answer the prompts. A readMe title autoREADME.md will be generated after the prompts. See the video below for clarity. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GhNGHBdDvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![ReadMe Video](imgs\videoImg.JPG)](https://youtu.be/2GhNGHBdDvk)
 
 ## Credits
 
